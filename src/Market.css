@@ -1,0 +1,23 @@
+.flex-1 {
+    display: flex;
+    flex: 5;
+}
+.tradeColumn {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: top;
+    align-items: center;
+    padding-top: 5vh;
+}
+.trade {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(120, 120, 120);
+    width: 40vw;
+    max-height: 5vw;
+    margin-bottom: 1vh;
+}

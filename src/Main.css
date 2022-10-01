@@ -1,0 +1,25 @@
+.clicker {
+    /* display: flex;
+    flex: 1; */
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(120, 120, 120);
+    /* border: 3px solid black; */
+    border-radius: 2px;
+    font-size: 8vh;
+    height: 20vh;
+    width: 30vw;
+}
+.bordered {
+    display: flex;
+    flex-direction: column;
+    flex: 0.25;
+    border: 2px solid black;
+}
+.SideBar {
+    display: flex;
+    flex-direction: column;
+    flex: 0.3;
+    border-left: 3px solid black;
+    height: 90vh;
+}
