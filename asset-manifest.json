@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactClickerGame/static/css/main.1d0ed2f5.css",
+    "main.js": "/ReactClickerGame/static/js/main.fa427806.js",
+    "static/js/453.0c6efbec.chunk.js": "/ReactClickerGame/static/js/453.0c6efbec.chunk.js",
+    "index.html": "/ReactClickerGame/index.html",
+    "main.1d0ed2f5.css.map": "/ReactClickerGame/static/css/main.1d0ed2f5.css.map",
+    "main.fa427806.js.map": "/ReactClickerGame/static/js/main.fa427806.js.map",
+    "453.0c6efbec.chunk.js.map": "/ReactClickerGame/static/js/453.0c6efbec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d0ed2f5.css",
+    "static/js/main.fa427806.js"
+  ]
+}
